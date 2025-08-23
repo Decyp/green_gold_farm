@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "523984523645",
+    "project_id": "greengoldfarms-24d8b",
+    "storage_bucket": "greengoldfarms-24d8b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523984523645:android:1323984fa1c92f4ad37c14",
+        "android_client_info": {
+          "package_name": "com.greengoldfarm.greengoldfarm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPUhL0vHOk21axXwV7oQKGiS0nXeOY13M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
